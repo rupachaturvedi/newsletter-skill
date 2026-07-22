@@ -1,4 +1,4 @@
-# Newsletter Notes
+# Newsletter Skill
 
 A small Claude Code skill that reads the newsletters in your inbox and turns each one into a clean, structured note you keep. It clears the promotions and the filing out of your way, so your reading time goes to the content that matters.
 

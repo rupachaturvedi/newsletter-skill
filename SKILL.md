@@ -1,9 +1,9 @@
 ---
-name: newsletter-notes
+name: newsletter-skill
 description: Use when the user wants to process, triage, or catch up on the newsletters in their inbox, clear a newsletter backlog, or turn newsletters into notes they can keep. Reads recent newsletter emails and writes one short, structured note per issue, so reading turns into something searchable instead of an unread pile. Triggers on phrases like "process my newsletters", "catch me up on my newsletters", "turn my newsletters into notes", "clear my newsletter backlog", or "what came in this week".
 ---
 
-# Newsletter Notes
+# Newsletter Skill
 
 Turn the newsletters sitting in your inbox into a clean, structured note per issue. This is the first step of a second-brain practice. It hands the triage and filing to Claude, so your reading time goes to the substance and you keep a note of what mattered.
 
