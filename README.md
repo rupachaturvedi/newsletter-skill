@@ -1,10 +1,10 @@
 # Newsletter Notes
 
-A small Claude Code skill that reads the newsletters in your inbox and turns each one into a clean, structured note you keep. It is the first step of building a second brain: stop reading to keep up, start reviewing.
+A small Claude Code skill that reads the newsletters in your inbox and turns each one into a clean, structured note you keep. It clears the promotions and the filing out of your way, so your reading time goes to the content that matters.
 
 ## Why
 
-The volume of writing worth reading now outpaces anyone's ability to hold onto it. You save more, subscribe to more, and end up with an archive you never reopen. This skill hands the reading to Claude and leaves you with notes you can review and search.
+The volume of writing worth reading now outpaces anyone's ability to hold onto it. You save more, subscribe to more, and end up with an archive you never reopen. The reading was never the problem. The triage around it is: wading past promotions to reach the substance, then copying, pasting, and filing what you keep. This skill hands that part to Claude and leaves you with clean notes you own.
 
 ## What you need
 
@@ -49,7 +49,7 @@ takes as long as producing it, eval design becomes core product work.
 
 ## Where this goes next
 
-This is the intake step. The real value shows up in what accumulates over months, when the notes start to compound. I write about that in my newsletter, Shifting Ground.
+This is the first step. The real value shows up in what accumulates over months, as your own notes and thinking start to compound. I write about that in my newsletter, Shifting Ground.
 
 ## Credit
 

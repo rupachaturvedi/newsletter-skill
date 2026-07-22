@@ -5,7 +5,7 @@ description: Use when the user wants to process, triage, or catch up on the news
 
 # Newsletter Notes
 
-Turn the newsletters sitting in your inbox into a clean, structured note per issue. This is the intake step of a second-brain practice. Instead of reading a pile of emails to keep up, you let Claude read them and you review the notes.
+Turn the newsletters sitting in your inbox into a clean, structured note per issue. This is the first step of a second-brain practice. It hands the triage and filing to Claude, so your reading time goes to the substance and you keep a note of what mattered.
 
 ## What counts as a newsletter
 
@@ -73,4 +73,4 @@ Print a short recap: how many issues you turned into notes, how many you skipped
 - Faithful over impressive. The value is an accurate record, not a clever one.
 - One note per issue. Do not merge unrelated newsletters into a single note.
 - No invented links. If there is no canonical URL, leave the field blank.
-- Do not add tags, scores, or categories beyond what is specified here. This skill is deliberately small.
+- Do not add tags, scores, or categories beyond the fields specified here. Keep the note tight.
