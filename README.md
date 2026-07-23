@@ -14,7 +14,7 @@ The volume of writing worth reading now outpaces anyone's ability to hold onto i
 
 ## Install
 
-1. Create the folder `.claude/skills/newsletter-notes/` in your project or home directory.
+1. Create the folder `.claude/skills/newsletter-skill/` in your project or home directory.
 2. Copy `SKILL.md` into it.
 3. In Gmail, create a label called `Newsletters` and apply it to the newsletters you want processed. A Gmail filter can do this automatically for known senders.
 
